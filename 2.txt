@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is 2.txt changed for f2
+=======
+this is 2.txt changed for f2 in f2
+>>>>>>> f2
